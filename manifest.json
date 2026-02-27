@@ -2,28 +2,5 @@
   "manifest_version": 1,
   "server_id": "amp_test_server",
   "resources": [
-    {
-      "type": "model",
-      "id": 415,
-      "path": "cheetah.dff",
-      "sha256": "9c0e4d6f1b2c8a7d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6",
-      "size": 1603386,
-      "cdn": "https://raw.githubusercontent.com/psychobye/rsc/refs/heads/main/"
-    },
-    {
-      "type": "model",
-      "id": 9,
-      "path": "bfori.dff",
-      "sha256": "9c0e4d6f1b2c8a7d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6",
-      "size": 1603386,
-      "cdn": "https://raw.githubusercontent.com/psychobye/rsc/refs/heads/main/"
-    },
-    {
-      "type": "texture",
-      "path": "skins.zip",
-      "sha256": "aabbccddeeff11223344556677889900aabbccddeeff11223344556677889900",
-      "size": 532198,
-      "cdn": "https://raw.githubusercontent.com/psychobye/rsc/refs/heads/main/"
-    }
   ]
 }
